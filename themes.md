@@ -3,3 +3,4 @@ Kanagawa
 Dracula
 Nord
 PaleNight
+Github theme
